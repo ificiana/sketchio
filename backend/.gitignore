@@ -1,3 +1,0 @@
-// run npm install instead
-node_modules/*
-package-lock.json
