@@ -1,3 +1,6 @@
-export default io => {
-    return eventHandlers = socket => {}
+module.exports = (io) => {
+    const eventHandlers = (socket) => {
+        console.log('Connected!');
+    }
+    return eventHandlers
 }
