@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "0.1.0",
+  "description": "Backend for Sketchio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ificiana/sketchio.git"
+  },
+  "author": "ificiana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ificiana/sketchio/issues"
+  },
+  "homepage": "https://github.com/ificiana/sketchio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  }
+}
